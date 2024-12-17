@@ -5,9 +5,9 @@
 
 ### **Pré-requisitos**
 
-- Instalar o **Terraform CLI**
-- Instalar o **AWS CLI**
-- Configurar suas credenciais AWS:
+- Instalar  **Terraform CLI**
+- Instalar  **AWS CLI**
+- Configurar credenciais AWS
 
 ```bash
 export AWS_ACCESS_KEY_ID=SEU_ACCESS_KEY
